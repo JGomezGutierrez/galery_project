@@ -81,6 +81,10 @@ h1.title {
   color: rgb(252, 240, 255);
 }
 
+.title-color {
+  color: rgb(21, 85, 94);
+}
+
 figure {
   margin: 0;
   padding: 0;

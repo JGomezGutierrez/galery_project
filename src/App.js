@@ -17,7 +17,7 @@ function App() {
       <div className='app-container'>
         <br />
        <div className='container'>
-        <h1 id="title" className='text-center my-3'>Galería Maravillas del Mundo</h1>
+        <h1 id="title" className='text-center my-3 title-color'>Galería Maravillas del Mundo</h1>
       </div> 
       <br />
         <div className='main-content'>
